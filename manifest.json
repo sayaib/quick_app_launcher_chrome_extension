@@ -1,0 +1,11 @@
+{
+    "name":"quick app launcher",
+    "version":"0.0.4",
+    "description":"Extension to easily browse social media websites",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "quick.png"
+    }
+
+}

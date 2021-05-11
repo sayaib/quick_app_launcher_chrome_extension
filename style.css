@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    padding:0;
+    margin: 0;
+    border-radius: 10px;
+    
+    color: rgba(255, 255, 255, 0.925);
+}
+h1{
+    font-family: 'Lobster', cursive;
+    cursor: context-menu;
+    background: #FF0000;
+background: -webkit-linear-gradient(to right, #FF0000 0%, #FFFF00 25%, #05C1FF 50%, #FFFF00 75%, #FF0000 100%);
+background: -moz-linear-gradient(to right, #FF0000 0%, #FFFF00 25%, #05C1FF 50%, #FFFF00 75%, #FF0000 100%);
+background: linear-gradient(to right, #FF0000 0%, #FFFF00 25%, #05C1FF 50%, #FFFF00 75%, #FF0000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    cursor: context-menu;
+}
+#exten{
+    width: 400px;
+    height: 450px;
+    background-color: rgba(0, 0, 0, 0.89);
+    padding: 1rem;
+ 
+}
+
+#time{
+    font-family: 'Itim', cursive;
+    color: #FF4C68;
+}
+h4{
+    font-family: 'Varela Round', sans-serif;
+    cursor: context-menu;
+}
+.link1{
+    padding:1.3rem ;
+}
+.link a{
+    padding-left: 1.2rem;
+
+}
+
+.fab:hover{
+    color: rgb(255, 255, 255);
+    transition: 0.5s;
+}
+.fas:hover{
+    color: rgb(255, 255, 255);
+    transition: 0.5s;
+}
